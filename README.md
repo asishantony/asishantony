@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects
 - 📫 Contact me on asishantony@gmail.com
 
-<a href="https://app.daily.dev/asishkantony"><img src="https://github.com/asishantony/asishantony/devcard.svg" width="400" alt="Asish K Antony's Dev Card"/></a>
+<a href="https://app.daily.dev/asishkantony"><img src="https://github.com/asishantony/asishantony/blob/main/devcard.svg" width="400" alt="Asish K Antony's Dev Card"/></a>
 
 
 <!---

@@ -19,4 +19,4 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/asishantony/asishantony/blob/master/devcard.svg" width="400" alt="Asish K Antony's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/asishantony/asishantony/devcard.svg" width="400" alt="Asish K Antony's Dev Card"/></a>

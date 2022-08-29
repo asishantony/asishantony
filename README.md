@@ -1,6 +1,6 @@
 # 💫About Me :
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 Contact me on asishantony@gmail.com
 
